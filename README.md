@@ -79,10 +79,10 @@ The dataset used in this project includes details of IPL matches such as venue, 
 
 ## Contributors
 
-- **[Abid Hussain](https://github.com/abidhussainca1294)** - 
-- **[Ali Khan](https://github.com/khanali37gmail)** - 
-- **[Amir Siddiqui](https://github.com/ajsidd)** - 
-- **[Kashish Jain](https://github.com/kasheshjaiin)** - 
+- **[Abid Hussain](https://github.com/abidhussainca1294)**
+- **[Ali Khan](https://github.com/khanali37gmail)**
+- **[Amir Siddiqui](https://github.com/ajsidd)**
+- **[Kashish Jain](https://github.com/kasheshjaiin)**
 
 
 ## Acknowledgments
