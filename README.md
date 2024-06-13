@@ -84,9 +84,6 @@ The dataset used in this project includes details of IPL matches such as venue, 
 - **[Amir Siddiqui](https://github.com/ajsidd)**
 - **[Kashish Jain](https://github.com/kasheshjaiin)**
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
